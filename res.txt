@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/67334379/cut-mp4-in-pieces-python
+
+get time duration
+
